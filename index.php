@@ -12,7 +12,7 @@
 
         if($hasil->num_rows > 0){
             while($row= $hasil->fetch_assoc()){
-                echo $row['Nama_Siswa']. "====". $row["Nim"]. "====". $row["Tanggal_Lahir"]. "====". $row["Tempat_Lahir"]. "<br>";
+                echo $row['nama_siswa']. "====". $row["nim"]. "====". $row["tanggal_lahir"]. "====". $row["tempat_lahir"]. "<br>";
 
             }
         }

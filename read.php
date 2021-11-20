@@ -11,7 +11,7 @@
     <?php
     $Koneksi = new mysqli("localhost", "root", "", "sistem_sekolah");
     ?>
-    <b> Daftar seluruh siswa mesin dan elektro </b> <br>
+    <b> Daftar Siswa Yang Jelek </b> <br>
     <a href='create.php'>Tambah</a>
     <table>
             <tr>

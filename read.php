@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>MESIN VS ELEKTRO</title>
+        <title>manajemen informatika</title>
         <style>
             table, td, tr, th {
                 border: 1px solid black

@@ -32,7 +32,7 @@
                  echo "<tr>";
                  echo "<td>". $nomor++ ."</td>";
                  echo "<td>". $row["nama_siswa"]. "</td>";
-                 echo "<td>". $row["NIM"]. "</td>";
+                 echo "<td>". $row["nim"]. "</td>";
                  echo "<td>". $row["tanggal_lahir"]. "</td>";
                  echo "<td>". $row["tempat_lahir"]. "</td>";
                  echo "<td><a href='delete.php?id=". $row['id']. "'>Delete</a</td>";
